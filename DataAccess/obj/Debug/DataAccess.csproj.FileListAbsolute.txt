@@ -1,0 +1,5 @@
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\DataAccess\bin\Debug\DataAccess.dll
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\DataAccess\bin\Debug\DataAccess.pdb
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\DataAccess\obj\Debug\DataAccess.dll
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\DataAccess\obj\Debug\DataAccess.pdb

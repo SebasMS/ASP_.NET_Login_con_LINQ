@@ -1,0 +1,8 @@
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\Presentation\bin\Presentation.dll.config
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\Presentation\bin\Presentation.dll
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\Presentation\bin\Presentation.pdb
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\Presentation\bin\DataAccess.dll
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\Presentation\bin\DataAccess.pdb
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\Presentation\obj\Debug\Presentation.dll
+D:\Documentos\Proyectos de programación\Programación en C#\ASP\ASP_.NET_Login_con_LINQ\Presentation\obj\Debug\Presentation.pdb
